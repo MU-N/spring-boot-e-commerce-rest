@@ -5,8 +5,8 @@
 This project is a simple e-commerce backend built with Spring Boot. It provides RESTful APIs for managing products, categories, and other core e-commerce functionalities. The backend is designed using Spring Boot best practices, leveraging Spring Data JPA for database operations and supporting file uploads for product images.
 
 ## Project Overview Video
+https://github.com/user-attachments/assets/d26ed1ec-51eb-4c0f-ae1e-0f65eb79fc0d
 
-*A project overview video will be added here soon.*
 
 ## Features
 - Product management (CRUD operations)
@@ -51,11 +51,5 @@ API documentation is available via Springdoc OpenAPI/Swagger UI at:
 ```
 http://localhost:8080/swagger-ui.html
 ```
-
-## Repository
-[https://github.com/MU-N/spring-boot-e-commerce-rest](https://github.com/MU-N/spring-boot-e-commerce-rest)
-
-## License
-This project is licensed under the MIT License.
 
 > **Disclaimer:** This project is for educational and demonstration purposes only. 
